@@ -1,0 +1,1 @@
+Some resolves of leetcode from shanPic.
